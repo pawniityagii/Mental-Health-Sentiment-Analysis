@@ -11,9 +11,19 @@ A dashboard project that applies **Natural Language Processing** + **KMeans Clus
 - Matplotlib & Seaborn for insightful data visualizations
 - Interactive dashboard for real-time sentiment insights
 
-## 💡 Tech Stack
+## 🚀 Tech Stack & Environment
+This project was developed using Google Colab — a cloud-based Jupyter environment that makes it easy to run and share notebooks without any setup. No installation required — just open and run!
 
-`Python` · `Scikit-learn` · `NLP` · `KMeans Clustering` · `Pandas` · `Matplotlib` · `Seaborn`
+⚙️ Built With:
+🟣 Google Colab
+🐍 Python 3.10
+🧠 scikit-learn (for KMeans clustering)
+🧾 Pandas (for data wrangling)
+📊 Matplotlib & Seaborn (for visualizations)
+
+▶️ Run it Yourself
+Click below to open the notebook in Colab and try it out:
+https://colab.research.google.com/drive/1b4F1DMDZnYvbRHZkWlojug6nvM3wWNbp?usp=sharing
 
 ## 🚀 Demo
 
