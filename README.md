@@ -27,10 +27,6 @@ This project was developed using Google Colab — a cloud-based Jupyter environm
 Click below to open the notebook in Colab and try it out:
 https://colab.research.google.com/drive/1b4F1DMDZnYvbRHZkWlojug6nvM3wWNbp?usp=sharing
 
-## 🚀 Demo
-
-Coming soon: [Streamlit Deployment](#)  
-
 
 ## 📂 Project Structure
 
