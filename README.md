@@ -23,7 +23,7 @@ Coming soon: [Streamlit Deployment](#)
 ## 📂 Project Structure
 
 Mental-Health-Sentiment-Analysis/
-├── data/                   # Dataset or input text files
+├── sample dataset/                   # Dataset or input text files
 ├── notebooks/              # Jupyter notebooks for experimentation
 ├── src/                    # Core logic and modular scripts
 │   ├── preprocessing.py
@@ -34,16 +34,17 @@ Mental-Health-Sentiment-Analysis/
 
 ## 📸 Screenshots
 
-
+![Dashboard Screenshot](dashboard/Output.png)
+![Cluster Graph](dashboard/ScatterPlot.png)
 
 ### 🧾 Input Sample
-![Input Text](assets/input_text_sample.png)
+![Input Text](sample dataset)
 
 ### 📊 Sentiment Clusters
-![Cluster Output](assets/kmeans_clusters.png)
+![Cluster Output](dashboard/ScatterPlot.png)
 
 ### 📈 Dashboard UI
-![Dashboard Preview](assets/dashboard_ui.png)
+![Dashboard Preview](dashboard/Output.png)
 
 ## 🛠️ Installation & Usage
 
