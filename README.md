@@ -1,3 +1,5 @@
+**Tags:** `NLP` • `Unsupervised Learning` • `Mental Health` • `KMeans` • `Sentiment Analysis` • `Dashboard` • `Python`
+
 # 🧠 Mental Health Sentiment Analysis Dashboard
 > Using Machine Learning to understand the unspoken.
 
