@@ -98,7 +98,7 @@ I'm a Computer Science undergrad passionate about the intersection of AI and men
 
 
 📫 Let's connect:
-[LinkedIn](https://linkedin.com/in/pawni-tyagi) • [Portfolio](#) • [GitHub](https://github.com/pawniityagii)
+[LinkedIn](https://linkedin.com/in/pawni-tyagi) • [Portfolio](https://pawnityagi.my.canva.site/#contact) • [GitHub](https://github.com/pawniityagii)
 
 
 > 💬 If this repo helped or inspired you, leave a ⭐ — it makes my day!
